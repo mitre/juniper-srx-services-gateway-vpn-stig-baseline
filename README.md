@@ -1,0 +1,1 @@
+# juniper-srx-services-gateway-vpn-stig-baseline
